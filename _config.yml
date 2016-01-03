@@ -1,0 +1,28 @@
+name: 'public abstract Gravy : Power'
+favicon: null
+layout_spectrum: 0.7455482615623623
+typography_spectrum: 0.5657028511632234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.04455825290642679
+  lightness: 0.3233911271672696
+  saturation: 0.1263302422594279
+  rhythmicContrast: 0.4728528775740415
+purpose: []
