@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://blog.gravypower.net/everything-starts-somewhere/'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: My thoughts and reasons for starting this site.
-datePublished: '2016-01-04T03:51:51.890Z'
-dateModified: '2016-01-04T03:49:30.795Z'
+datePublished: '2016-01-04T04:11:51.688Z'
+dateModified: '2016-01-04T03:51:53.958Z'
 author: []
 title: Everything starts somewhere
 sourcePath: _posts/2016-01-04-everything-starts-somewhere.md
@@ -19,6 +18,7 @@ publisher:
   domain: blog.gravypower.net
   url: null
   favicon: null
+url: everything-starts-somewhere/index.html
 _context: 'http://schema.org'
 _type: Article
 
