@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Rant on developer education '
-datePublished: '2016-01-04T05:47:37.531Z'
-dateModified: '2016-01-04T05:47:21.428Z'
+datePublished: '2016-01-04T05:50:22.818Z'
+dateModified: '2016-01-04T05:50:19.080Z'
 author: []
 title: "The Developer\_"
 sourcePath: _posts/2016-01-04-the-developer.md
