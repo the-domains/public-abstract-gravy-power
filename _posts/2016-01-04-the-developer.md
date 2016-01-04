@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://blog.gravypower.net/no-test-no-beer/'
 inLanguage: null
 starred: false
 keywords: []
 description: 'Rant on developer education '
-datePublished: '2016-01-04T03:45:48.316Z'
-dateModified: '2016-01-04T03:45:30.976Z'
+datePublished: '2016-01-04T05:47:37.531Z'
+dateModified: '2016-01-04T05:47:21.428Z'
 author: []
 title: "The Developer\_"
+sourcePath: _posts/2016-01-04-the-developer.md
+published: true
 authors: []
 publisher:
   name: gravypower.net
   domain: blog.gravypower.net
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-the-developer.md
-published: true
+url: the-developer/index.html
 _context: 'http://schema.org'
 _type: Article
 
