@@ -4,11 +4,18 @@
         <description><![CDATA[public abstract Gravy : Power]]></description>
         <link>https://thegrid.ai/public-abstract-gravy-power/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 05:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 06:04:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/public-abstract-gravy-power/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Use and ORM ]]></title>
+            <description><![CDATA[<article><h1>Use and ORM </h1><p>I am a big advocate of TDD and would love to see interfaces on all of the Sitecore types, this is a big ask to the product team as they have new a wonderful features to work on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d064d6bc74ec5cb0c8cc25f478cfede320866966.jpg"></article>]]></description>
+            <link>https://thegrid.ai/public-abstract-gravy-power/use-and-orm/index.html</link>
+            <guid isPermaLink="false">d5963e48-66b6-4dda-9a02-dde442c4b951</guid>
+            <pubDate>Mon, 04 Jan 2016 06:03:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Employer ]]></title>
-            <description><![CDATA[<article><h1>The Employer </h1><p>I tweeted an image a while back and thought I would share it here as well. This is classic and would make for great motivation, but there is a good point behind it.  In my limited experience it has been hard to get across the point of why I write things test first. Often I come back to code just to find that the tests are failing. This makes me sad and fell a bit defeated as I took the time and the care to create something that was testable. I don’t blame the developers who forget about the tests but a lack of professionalism in the software development field. For me this goes back to my training, I was simply not taught about TDD and had to discover and learn about it on my own. I believe that the responsibility of creating better code falls to three parties. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ca198b56f528f0dc980a8da11cf80afae275587.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Employer </h1><p>I tweeted an image a while back and thought I would share it here as well. This is classic and would make for great motivation, but there is a good point behind it.  In my limited experience it has been hard to get across the point of why I write things test first. Often I come back to code just to find that the tests are failing. This makes me sad and fell a bit defeated as I took the time and the care to create something that was testable. I don’t blame the developers who forget about the tests but a lack of professionalism in the software development field. For me this goes back to my training, I was simply not taught about TDD and had to discover and learn about it on my own. I believe that the responsibility of creating better code falls to three parties. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87fe827f10b01fe62e039feb5585784d4e760773.jpg"></article>]]></description>
             <link>https://thegrid.ai/public-abstract-gravy-power/the-developer/index.html</link>
             <guid isPermaLink="false">9ae479c1-6f39-4841-81de-066366d1c043</guid>
             <pubDate>Mon, 04 Jan 2016 05:51:46 GMT</pubDate>
