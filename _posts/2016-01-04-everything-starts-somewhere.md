@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: My thoughts and reasons for starting this site.
-datePublished: '2016-01-04T03:49:30.169Z'
-dateModified: '2016-01-04T03:41:37.003Z'
+datePublished: '2016-01-04T03:51:51.890Z'
+dateModified: '2016-01-04T03:49:30.795Z'
 author: []
 title: Everything starts somewhere
 sourcePath: _posts/2016-01-04-everything-starts-somewhere.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![At the coliseum ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c4dd499dd85c6132f376653216b038a1aa0e078.jpg)
+![At the coliseum ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d9add2b82ac29a90011ad6e84edabd67bd6bf94.jpg)
 
 This is something that I have been wanting to do for a long time but never had the motivation to get off my ass and just do it. I will be trying to post both videos and text on a range of topics to no set schedule. 
 
