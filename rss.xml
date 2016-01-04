@@ -4,14 +4,14 @@
         <description><![CDATA[public abstract Gravy : Power]]></description>
         <link>https://thegrid.ai/public-abstract-gravy-power/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 06:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 06:15:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/public-abstract-gravy-power/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[To check in dependencies or not to check in dependencies]]></title>
-            <description><![CDATA[<article><h1>To check in dependencies or not to check in dependencies</h1><p>I have been playing around in the world of Drupal and Front End development for the last few months and have come across a topic of discussion that I thought I had heard the last of. Check in dependencies or not?  This is something that I have thought about a lot in terms of .NET development and I came to the conclusion in that space that I should not check in my dependencies. Now this all comes down to personal preference but this is what I think.  If you are serious about development you would have heard of Continuous Delivery, this is the practice of promoting code through a series of environments (Test, QA, UAT, Production, etc) with a click of a button. If you have not head of it before then head on over to Martin Fowler’s Bliki and have a read about it, I see it as the big brother of Continuous Integration.  When I practice Continuous Delivery and build a project the output is a package of some kind that can be deployed into any of the environments in my deployment pipeline. This package is built once and contains all dependencies.  The arguments for checking in dependences into VCS I have been reading about lately mainly revolve around installing dependencies at deployment time. What happens if the package manager you have been using is no longer there or is having network issues, how can you deploy now?! My response to this is you should never be installing dependencies at deployment time; installing dependencies is part of the build phase of a deployment pipeline, the output of which is an artefact with them included.  The only time I check in any dependencies is when there is no pathway to use a package manager. However in cases like this I often will host then in something like a private nugget feed, this way I can control all dependencies in a consistent manner.  There is no correct way to manage dependencies, but I side on keeping your VCS clean and rely on your build artefacts to make sure you can deploy at any time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/599c94c76f7d68ee1b638e67e18f08a759650d8f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>To check in dependencies or not to check in dependencies</h1><p>An opinion piece on whether to check in your dependencies into source control.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/599c94c76f7d68ee1b638e67e18f08a759650d8f.jpg"></article>]]></description>
             <link>https://thegrid.ai/public-abstract-gravy-power/to-check-in-dependencies-or-not-to-check-in-dependencies/index.html</link>
             <guid isPermaLink="false">30276b10-b5d7-4281-a0e2-2f03dd360495</guid>
-            <pubDate>Mon, 04 Jan 2016 06:07:57 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 06:15:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Use and ORM ]]></title>
