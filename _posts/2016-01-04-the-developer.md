@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Rant on developer education '
-datePublished: '2016-01-04T05:51:46.772Z'
-dateModified: '2016-01-04T05:51:36.069Z'
+datePublished: '2016-01-04T06:18:05.314Z'
+dateModified: '2016-01-04T06:09:15.287Z'
 author: []
-title: "The Employer\_"
+title: "The Developer\_"
 sourcePath: _posts/2016-01-04-the-developer.md
 published: true
 authors: []
@@ -27,7 +27,7 @@ _type: Article
 
 I tweeted an image a while back and thought I would share it here as well. This is classic and would make for great motivation, but there is a good point behind it. In my limited experience it has been hard to get across the point of why I write things test first. Often I come back to code just to find that the tests are failing. This makes me sad and fell a bit defeated as I took the time and the care to create something that was testable. I don't blame the developers who forget about the tests but a lack of professionalism in the software development field. For me this goes back to my training, I was simply not taught about TDD and had to discover and learn about it on my own. I believe that the responsibility of creating better code falls to three parties. 
 
-The Developer 
+# The Developer 
 
 Developers need to think more about who is the next person that will be working with the code you are currently writing. Also make an effort to see what others are doing out there in terms of creating software. This is not just about TDD but caring about your code. 
 
