@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: My thoughts and reasons for starting this site.
-datePublished: '2016-01-04T04:11:51.688Z'
-dateModified: '2016-01-04T03:51:53.958Z'
+datePublished: '2016-01-04T05:47:49.330Z'
+dateModified: '2016-01-04T05:47:31.388Z'
 author: []
 title: Everything starts somewhere
 sourcePath: _posts/2016-01-04-everything-starts-somewhere.md
