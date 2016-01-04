@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: My thoughts and reasons for starting this site.
-datePublished: '2016-01-04T05:47:49.330Z'
-dateModified: '2016-01-04T05:47:31.388Z'
+datePublished: '2016-01-04T06:18:13.161Z'
+dateModified: '2016-01-04T05:52:35.205Z'
 author: []
 title: Everything starts somewhere
 sourcePath: _posts/2016-01-04-everything-starts-somewhere.md
