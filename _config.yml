@@ -1,7 +1,7 @@
 name: 'public abstract Gravy : Power'
 favicon: null
 layout_spectrum: 0.66225
-typography_spectrum: 0.25264
+typography_spectrum: 0.69454
 title: 'public abstract Gravy : Power'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.04455825290642679
-  lightness: 0.3233911271672696
-  saturation: 0.1263302422594279
-  rhythmicContrast: 0.4728528775740415
+  brandStrength: 0.0625
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
