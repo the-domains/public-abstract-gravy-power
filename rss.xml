@@ -4,8 +4,15 @@
         <description><![CDATA[public abstract Gravy : Power]]></description>
         <link>https://thegrid.ai/public-abstract-gravy-power/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 01:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 03:01:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/public-abstract-gravy-power/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Git SubTrees and MOdules]]></title>
+            <description><![CDATA[<article><h1>Git SubTrees and MOdules</h1><p>I have been working with Drupal for about 4 months now and have started to forget things.  Today is the start of a series of posts for me to google my brain later, and if someone else gets use out of it that's great.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27f4d19005ffff57cb0287206acb93023684130b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/public-abstract-gravy-power/git-subtrees-and-modules/index.html</link>
+            <guid isPermaLink="false">29ffe3b1-9269-453a-a406-5e9eac490c20</guid>
+            <pubDate>Wed, 06 Jan 2016 03:01:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Use and ORM ]]></title>
             <description><![CDATA[<article><h1>Use and ORM </h1><p>I am a big advocate of TDD and would love to see interfaces on all of the Sitecore types, this is a big ask to the product team as they have new a wonderful features to work on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c184847f784d7a19238e3ede9cfe88b0e6d9ec1.jpg"></article>]]></description>
