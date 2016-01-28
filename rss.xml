@@ -4,11 +4,18 @@
         <description><![CDATA[public abstract Gravy : Power]]></description>
         <link>https://thegrid.ai/public-abstract-gravy-power/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 03:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2016 23:41:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/public-abstract-gravy-power/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Symlink is your friend]]></title>
+            <description><![CDATA[<article><h1>Symlink is your friend</h1><p>In computing, a symbolic link (also symlink or soft link) is the nickname for any file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution.</p></article>]]></description>
+            <link>https://thegrid.ai/public-abstract-gravy-power/symlink-is-your-friend/index.html</link>
+            <guid isPermaLink="false">94a32924-0933-450c-8cc4-ebc3b15a7358</guid>
+            <pubDate>Thu, 28 Jan 2016 23:41:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Git SubTrees and MOdules]]></title>
-            <description><![CDATA[<article><h1>Git SubTrees and MOdules</h1><p>I have been working with Drupal for about 4 months now and have started to forget things.  Today is the start of a series of posts for me to google my brain later, and if someone else gets use out of it that's great.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27f4d19005ffff57cb0287206acb93023684130b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Git SubTrees and MOdules</h1><p>I have been working with Drupal for about 4 months now and have started to forget things.  Today is the start of a series of posts for me to google my brain later, and if someone else gets use out of it that's great.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/946a4a83ec72dfdf37f8399052222060f0377228.jpg"></article>]]></description>
             <link>https://thegrid.ai/public-abstract-gravy-power/git-subtrees-and-modules/index.html</link>
             <guid isPermaLink="false">29ffe3b1-9269-453a-a406-5e9eac490c20</guid>
             <pubDate>Wed, 06 Jan 2016 03:01:20 GMT</pubDate>
