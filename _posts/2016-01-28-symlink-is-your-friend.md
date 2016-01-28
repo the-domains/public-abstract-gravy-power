@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I love Symlink but I always forget the syntax, and find myself googling it all the time. This is to put a stop to that.'
-datePublished: '2016-01-28T23:41:47.668Z'
-dateModified: '2016-01-28T23:41:35.916Z'
+datePublished: '2016-01-28T23:46:05.714Z'
+dateModified: '2016-01-28T23:46:02.652Z'
 title: Symlink is your friend
 author: []
+sourcePath: _posts/2016-01-28-symlink-is-your-friend.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-28-symlink-is-your-friend.md
-published: true
 url: symlink-is-your-friend/index.html
 _type: Article
 
@@ -32,6 +32,6 @@ Linking a repo to my www root for the site I am working on:
 
 So for example:
 
-sudo ln -s /home/projects/website/ /var/www/website/
+sudo ln -s /home/projects/website/ /var/www/
 
 [0]: https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiIsL620M3KAhXC3aYKHd5RABMQFggeMAE&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSymbolic_link&usg=AFQjCNHKXH-kM-_5J2NdkfDOz3TTue8WPg&bvm=bv.113034660,d.dGY
