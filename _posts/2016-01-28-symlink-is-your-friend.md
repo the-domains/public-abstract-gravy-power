@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I love Symlink but I always forget the syntax, and find myself googling it all the time. This is to put a stop to that.'
-datePublished: '2016-01-28T23:46:05.714Z'
+datePublished: '2016-01-28T23:46:05.722Z'
 dateModified: '2016-01-28T23:46:02.652Z'
 title: Symlink is your friend
 author: []
