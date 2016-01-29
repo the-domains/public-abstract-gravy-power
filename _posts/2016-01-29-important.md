@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A summary of my workflow for local development that is release to Pantheon.
-datePublished: '2016-01-29T01:58:44.870Z'
-dateModified: '2016-01-29T01:58:41.722Z'
+datePublished: '2016-01-29T02:04:06.917Z'
+dateModified: '2016-01-29T02:03:58.168Z'
 title: Drupal and Pantheon Local Workflow.
 author: []
 sourcePath: _posts/2016-01-29-important.md
@@ -22,6 +22,7 @@ url: important/index.html
 _type: Article
 
 ---
+# Drupal and Pantheon Local Workflow.
 ![The Pantheon in Rome (Italy)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c62b00f9-5782-490e-8f13-c799c801b57f.jpg)
 
 When I first started development with Drupal I spent a long time working out how to set up sites using [Aegir][0]. This worked well for me as my first site  was also hosted in production using Aegir, but on my second I ended up hosting with [Pantheon][1], and bended my workflow in ways that started to hurt. Now with that second project live, I took a step back and looked at my workflow and identified the pain points. 
