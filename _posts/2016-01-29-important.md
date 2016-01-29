@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: A summary of my workflow for local development that is release to Pantheon.
-datePublished: '2016-01-29T01:46:33.816Z'
-dateModified: '2016-01-29T01:46:17.480Z'
+datePublished: '2016-01-29T01:50:53.318Z'
+dateModified: '2016-01-29T01:50:50.111Z'
 title: 'IMPORTANT!!!'
 author: []
+sourcePath: _posts/2016-01-29-important.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-29-important.md
-published: true
 url: important/index.html
 _type: Article
 
@@ -61,7 +61,7 @@ After navigating to your new site, you will be greeted with the install page, it
 
 Run through the installation and you should get a working site.
 
-# IMPORTANT!!!
+> IMPORTANT!!!
 
 Now that we have a working site it is **VERY IMPORTANT** to alter your settings.php so that it will work correctly when you commit all this back into the Pantheon repo.
 
