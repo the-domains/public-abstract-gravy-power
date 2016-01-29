@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: A summary of my workflow for local development that is release to Pantheon.
-datePublished: '2016-01-29T01:50:53.318Z'
+datePublished: '2016-01-29T01:50:53.372Z'
 dateModified: '2016-01-29T01:50:50.111Z'
 title: 'IMPORTANT!!!'
 author: []
