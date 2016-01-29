@@ -4,14 +4,14 @@
         <description><![CDATA[public abstract Gravy : Power]]></description>
         <link>https://thegrid.ai/public-abstract-gravy-power/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 01:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 01:52:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/public-abstract-gravy-power/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[IMPORTANT!!!]]></title>
-            <description><![CDATA[<article><h1>IMPORTANT!!!</h1><p>When I first started development with Drupal I spent a long time working out how to set up sites using Aegir. This worked well for me as my first site  was also hosted in production using Aegir, but on my second I ended up hosting with Pantheon, and bended my workflow in ways that started to hurt. Now with that second project live, I took a step back and looked at my workflow and identified the pain points. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7aa9535085ddfbb8878f4b10cc11df7d46470c61.jpg"></article>]]></description>
+            <title><![CDATA[Drupal and Pantheon Local Workflow.]]></title>
+            <description><![CDATA[<article><h1>Drupal and Pantheon Local Workflow.</h1><p>When I first started development with Drupal I spent a long time working out how to set up sites using Aegir. This worked well for me as my first site  was also hosted in production using Aegir, but on my second I ended up hosting with Pantheon, and bended my workflow in ways that started to hurt. Now with that second project live, I took a step back and looked at my workflow and identified the pain points. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7aa9535085ddfbb8878f4b10cc11df7d46470c61.jpg"></article>]]></description>
             <link>https://thegrid.ai/public-abstract-gravy-power/important/index.html</link>
             <guid isPermaLink="false">6dee67f6-9797-4f2d-a339-b6703abb6eab</guid>
-            <pubDate>Fri, 29 Jan 2016 01:50:53 GMT</pubDate>
+            <pubDate>Fri, 29 Jan 2016 01:52:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Symlink is your friend]]></title>
