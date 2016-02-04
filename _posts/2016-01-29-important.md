@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A summary of my workflow for local development that is release to Pantheon.
-datePublished: '2016-01-29T02:04:07.015Z'
-dateModified: '2016-01-29T02:03:58.168Z'
+datePublished: '2016-02-04T23:37:45.919Z'
+dateModified: '2016-02-04T23:37:43.168Z'
 title: Drupal and Pantheon Local Workflow.
 author: []
 sourcePath: _posts/2016-01-29-important.md
