@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Managing Drupal Modules with Git SubTree
-datePublished: '2016-02-29T21:46:17.461Z'
-dateModified: '2016-02-29T21:46:16.714Z'
+datePublished: '2016-02-29T21:52:14.776Z'
+dateModified: '2016-02-29T21:50:31.789Z'
 title: Git SubTrees and Modules
 author: []
 sourcePath: _posts/2016-01-06-git-subtrees-and-modules.md
