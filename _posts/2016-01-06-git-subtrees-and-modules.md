@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: Managing Drupal Modules with Git SubTree
-datePublished: '2016-01-06T03:01:20.839Z'
-dateModified: '2016-01-06T03:01:07.170Z'
-title: Git SubTrees and MOdules
+datePublished: '2016-02-29T21:46:17.461Z'
+dateModified: '2016-02-29T21:46:16.714Z'
+title: Git SubTrees and Modules
 author: []
+sourcePath: _posts/2016-01-06-git-subtrees-and-modules.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-git-subtrees-and-modules.md
-published: true
 url: git-subtrees-and-modules/index.html
 _type: Article
 
 ---
-![Baobab Tree](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81764708-f69c-457d-bfca-ae087d8b4c79.jpg)
+# Git SubTrees and Modules
+![Grandidier's Baobab](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe6320b7f2396923c7ddbd61e99c8d829b1c1983.jpg)
 
 I have been working with Drupal for about 4 months now and have started to forget things.  Today is the start of a series of posts for me to google my brain later, and if someone else gets use out of it that's great.
 
@@ -46,6 +47,6 @@ SubTrees are stored as commit messages so you need to effectively do a search th
 
 All is needed now is a git push to get it into your remote repo.
 
-All done
+All done.
 
 [0]: https://pantheon.io/
