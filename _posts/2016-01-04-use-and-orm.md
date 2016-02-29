@@ -6,24 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'My take on the best way to do unit testing in Sitecore, this idea could be use with other CMS systems also. '
-datePublished: '2016-01-04T06:03:42.986Z'
-dateModified: '2016-01-04T06:03:34.269Z'
+datePublished: '2016-02-29T21:46:23.224Z'
+dateModified: '2016-02-29T21:46:21.961Z'
 author: []
-title: "Use and ORM\_"
+title: Unit Testing and Sitecore
+sourcePath: _posts/2016-01-04-use-and-orm.md
+published: true
 authors: []
 publisher:
   name: gravypower.net
   domain: blog.gravypower.net
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-use-and-orm.md
-published: true
 url: use-and-orm/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](http://blog.gravypower.net/content/images/2015/Jun/Potato.jpg)
+# Unit Testing and Sitecore
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d064d6bc74ec5cb0c8cc25f478cfede320866966.jpg)
 
 I am a big advocate of TDD and would love to see interfaces on all of the Sitecore types, this is a big ask to the product team as they have new a wonderful features to work on.
 
