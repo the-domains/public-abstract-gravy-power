@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A summary of my workflow for local development that is release to Pantheon.
-datePublished: '2016-02-04T23:37:45.919Z'
-dateModified: '2016-02-04T23:37:43.168Z'
+datePublished: '2016-02-29T21:46:09.761Z'
+dateModified: '2016-02-29T21:45:48.106Z'
 title: Drupal and Pantheon Local Workflow.
 author: []
 sourcePath: _posts/2016-01-29-important.md
@@ -54,15 +54,13 @@ Before we navigate to our site we need to do a bit of playing with the settings 
 * Edit this file and remove everything before the comment starting with  "Include the Pantheon-specific settings file".
 * Navigate to your site.
 
-> It is worth noting that things are slightly different for Drupal 7 where you will just create a settings.php from the default.settings.php and continue. 
+**It is worth noting that things are slightly different for Drupal 7 where you will just create a settings.php from the default.settings.php and continue. **
 
 After navigating to your new site, you will be greeted with the install page, it is important to run through this, this will configure the settings.php with a local database connection string. Don't worry too much about what options you choose here as we will be overriding the database from a back up we get from the Pantheon dashboard.
 
-> You will most likely run into a permissions issue here, open a shell and navigate to the pantheon repo and run "_chmod a+w sites/default_" this will set the permissions up correctly for you to continue.
+**You will most likely run into a permissions issue here, open a shell and navigate to the pantheon repo and run "chmod a+w sites/default" this will set the permissions up correctly for you to continue.**
 
-Run through the installation and you should get a working site.
-
-> IMPORTANT!!!
+**IMPORTANT!!!**
 
 Now that we have a working site it is **VERY IMPORTANT** to alter your settings.php so that it will work correctly when you commit all this back into the Pantheon repo.
 
@@ -76,5 +74,5 @@ Now we should have a working site, this is getting very long so I will call it t
 [0]: http://www.aegirproject.org/
 [1]: https://pantheon.io/
 [2]: https://thegrid.ai/public-abstract-gravy-power/git-subtrees-and-modules/
-[3]: https://thegrid.ai/public-abstract-gravy-power/symlink-is-your-friend/
+[3]: null
 [4]: https://gist.github.com/gravypower/f8bda2e9a1eea46bc664
