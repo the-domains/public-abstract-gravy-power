@@ -4,8 +4,15 @@
         <description><![CDATA[public abstract Gravy : Power]]></description>
         <link>https://thegrid.ai/public-abstract-gravy-power/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 22:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 23:55:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/public-abstract-gravy-power/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ 0.0.0.0:80 Address already in use WTF?!]]></title>
+            <description><![CDATA[<article><h1> 0.0.0.0:80 Address already in use WTF?!</h1><p>Ran into an issue where I could not start nginx. The error "[emerg] listen() to 0.0.0.0:80, backlog 511 failed (98: Address already in use)" would show up in the error log.  To combat this I took advantage of the "fuser" command.</p></article>]]></description>
+            <link>https://thegrid.ai/public-abstract-gravy-power/000080-address-already-in-use-wtf/index.html</link>
+            <guid isPermaLink="false">9c90c2eb-24ec-4398-aecd-a3f2273a7ea5</guid>
+            <pubDate>Wed, 13 Apr 2016 23:55:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Symlink is your friend]]></title>
             <description><![CDATA[<article><h1>Symlink is your friend</h1><p>In computing, a symbolic link (also symlink or soft link) is the nickname for any file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution.</p></article>]]></description>
