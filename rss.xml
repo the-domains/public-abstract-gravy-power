@@ -4,21 +4,14 @@
         <description><![CDATA[public abstract Gravy : Power]]></description>
         <link>https://thegrid.ai/public-abstract-gravy-power/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 22:00:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 22:51:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/public-abstract-gravy-power/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Drupal and Pantheon Local Workflow.]]></title>
-            <description><![CDATA[<article><h1>Drupal and Pantheon Local Workflow.</h1><p>When I first started development with Drupal I spent a long time working out how to set up sites using Aegir. This worked well for me as my first site  was also hosted in production using Aegir, but on my second I ended up hosting with Pantheon, and bended my workflow in ways that started to hurt. Now with that second project live, I took a step back and looked at my workflow and identified the pain points. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e54fcf64abea8ab42d6979f844b0afde1e5b14d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/public-abstract-gravy-power/important/index.html</link>
-            <guid isPermaLink="false">6dee67f6-9797-4f2d-a339-b6703abb6eab</guid>
-            <pubDate>Mon, 29 Feb 2016 21:46:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Symlink is your friend]]></title>
             <description><![CDATA[<article><h1>Symlink is your friend</h1><p>In computing, a symbolic link (also symlink or soft link) is the nickname for any file that contains a reference to another file or directory in the form of an absolute or relative path and that affects pathname resolution.</p></article>]]></description>
             <link>https://thegrid.ai/public-abstract-gravy-power/symlink-is-your-friend/index.html</link>
             <guid isPermaLink="false">94a32924-0933-450c-8cc4-ebc3b15a7358</guid>
-            <pubDate>Thu, 28 Jan 2016 23:46:05 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 22:51:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Git SubTrees and Modules]]></title>
@@ -28,6 +21,13 @@
             <pubDate>Mon, 29 Feb 2016 21:59:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Everything starts somewhere]]></title>
+            <description><![CDATA[<article><h1>Everything starts somewhere</h1><p>This is something that I have been wanting to do for a long time but never had the motivation to get off my ass and just do it. I will be trying to post both videos and text on a range of topics to no set schedule. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc08a8baf011d96b7af9cb9b2ae7ccb62cba7c1d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/public-abstract-gravy-power/everything-starts-somewhere/index.html</link>
+            <guid isPermaLink="false">c55adc7b-7a45-4f26-8612-3b5ea2ee7510</guid>
+            <pubDate>Mon, 29 Feb 2016 21:46:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Unit Testing and Sitecore]]></title>
             <description><![CDATA[<article><h1>Unit Testing and Sitecore</h1><p>I am a big advocate of TDD and would love to see interfaces on all of the Sitecore types, this is a big ask to the product team as they have new a wonderful features to work on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c184847f784d7a19238e3ede9cfe88b0e6d9ec1.jpg"></article>]]></description>
             <link>https://thegrid.ai/public-abstract-gravy-power/use-and-orm/index.html</link>
@@ -35,18 +35,18 @@
             <pubDate>Mon, 29 Feb 2016 21:46:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Drupal and Pantheon Local Workflow.]]></title>
+            <description><![CDATA[<article><h1>Drupal and Pantheon Local Workflow.</h1><p>When I first started development with Drupal I spent a long time working out how to set up sites using Aegir. This worked well for me as my first site  was also hosted in production using Aegir, but on my second I ended up hosting with Pantheon, and bended my workflow in ways that started to hurt. Now with that second project live, I took a step back and looked at my workflow and identified the pain points. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e54fcf64abea8ab42d6979f844b0afde1e5b14d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/public-abstract-gravy-power/important/index.html</link>
+            <guid isPermaLink="false">6dee67f6-9797-4f2d-a339-b6703abb6eab</guid>
+            <pubDate>Mon, 29 Feb 2016 21:46:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Developer ]]></title>
             <description><![CDATA[<article><h1>The Developer </h1><p>I tweeted an image a while back and thought I would share it here as well. This is classic and would make for great motivation, but there is a good point behind it.  In my limited experience it has been hard to get across the point of why I write things test first. Often I come back to code just to find that the tests are failing. This makes me sad and fell a bit defeated as I took the time and the care to create something that was testable. I don’t blame the developers who forget about the tests but a lack of professionalism in the software development field. For me this goes back to my training, I was simply not taught about TDD and had to discover and learn about it on my own. I believe that the responsibility of creating better code falls to three parties. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87fe827f10b01fe62e039feb5585784d4e760773.jpg"></article>]]></description>
             <link>https://thegrid.ai/public-abstract-gravy-power/the-developer/index.html</link>
             <guid isPermaLink="false">9ae479c1-6f39-4841-81de-066366d1c043</guid>
             <pubDate>Mon, 04 Jan 2016 06:18:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everything starts somewhere]]></title>
-            <description><![CDATA[<article><h1>Everything starts somewhere</h1><p>This is something that I have been wanting to do for a long time but never had the motivation to get off my ass and just do it. I will be trying to post both videos and text on a range of topics to no set schedule. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc08a8baf011d96b7af9cb9b2ae7ccb62cba7c1d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/public-abstract-gravy-power/everything-starts-somewhere/index.html</link>
-            <guid isPermaLink="false">c55adc7b-7a45-4f26-8612-3b5ea2ee7510</guid>
-            <pubDate>Mon, 29 Feb 2016 21:46:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
