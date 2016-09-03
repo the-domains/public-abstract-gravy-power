@@ -4,8 +4,15 @@
         <description><![CDATA[public abstract Gravy : Power]]></description>
         <link>https://thegrid.ai/public-abstract-gravy-power/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 23:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 23:47:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/public-abstract-gravy-power/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Git SubTrees and Modules]]></title>
+            <description><![CDATA[<article><h1>Git SubTrees and Modules</h1><p>I have been working with Drupal for about 4 months now and have started to forget things. Today is the start of a series of posts for me to google my brain later, and if someone else gets use out of it that's great.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5677caf07d1f73c41014855cf9f26658b407948.jpg"></article>]]></description>
+            <link>https://thegrid.ai/public-abstract-gravy-power/git-subtrees-and-modules/index.html</link>
+            <guid isPermaLink="false">29ffe3b1-9269-453a-a406-5e9eac490c20</guid>
+            <pubDate>Wed, 31 Aug 2016 23:47:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ 0.0.0.0:80 Address already in use WTF?!]]></title>
             <description><![CDATA[<p>Ran into an issue where I could not start nginx. The error "[emerg] listen() to 0.0.0.0:80, backlog 511 failed (98: Address already in use)" would show up in the error log. To combat this I took advantage of the "fuser" command.</p>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/public-abstract-gravy-power/symlink-is-your-friend/index.html</link>
             <guid isPermaLink="false">94a32924-0933-450c-8cc4-ebc3b15a7358</guid>
             <pubDate>Wed, 13 Apr 2016 22:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Git SubTrees and Modules]]></title>
-            <description><![CDATA[<article><h1>Git SubTrees and Modules</h1><p>I have been working with Drupal for about 4 months now and have started to forget things.  Today is the start of a series of posts for me to google my brain later, and if someone else gets use out of it that's great.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5677caf07d1f73c41014855cf9f26658b407948.jpg"></article>]]></description>
-            <link>https://thegrid.ai/public-abstract-gravy-power/git-subtrees-and-modules/index.html</link>
-            <guid isPermaLink="false">29ffe3b1-9269-453a-a406-5e9eac490c20</guid>
-            <pubDate>Mon, 29 Feb 2016 21:59:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unit Testing and Sitecore]]></title>
